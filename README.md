@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Social Media & Digtal Communication
 - 💞️ I’m looking to collaborate on Stay in UK
-- 📫 You could contact me on Email 747795526@qq.com
+- 📫 You could contact me on Email jiayixue04@outlook.com
 
 <!---
 kayixue/kayixue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
